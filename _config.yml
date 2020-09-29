@@ -16,8 +16,8 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: DongsGit/DongsGit.github.io
-github_url: https://github.com/DongsGit
-url: https://DongsGit.github.io
+github_url: http://github.com/DongsGit
+url: http://DongsGit.github.io
 enforce_ssl: 
 
 ## Gem
